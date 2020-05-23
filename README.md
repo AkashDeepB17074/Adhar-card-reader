@@ -7,5 +7,5 @@ and for the address part you can provide the path of address image in the same c
 and that will directly show the output on the console and stored in the csv file.
 <br>
 <br>
-<img src="0.png" widht="100px" height="100px">
-<img src="a.PNG" width="100px" height="100px">
+<img src="0.png" widht="200px" ><br>
+<img src="a.PNG"  height="100px">
