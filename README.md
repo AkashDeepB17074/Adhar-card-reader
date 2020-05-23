@@ -7,5 +7,8 @@ and for the address part you can provide the path of address image in the same c
 and that will directly show the output on the console and stored in the csv file.
 <br>
 <br>
-<img src="0.png" widht="200px" ><br>
+<br>Adhar card Processed OUTPUT image <br>
+<img src="0.png" widht="120px" ><br>
+<br>
+<br>OUTPUT STORED IN CSV<br>
 <img src="a.PNG"  height="100px">
